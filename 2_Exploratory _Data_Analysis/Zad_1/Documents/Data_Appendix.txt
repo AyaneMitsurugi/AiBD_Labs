@@ -1,0 +1,6 @@
+//***** ANALYSIS DATA *****//
+1. Original_Data/weather.txt file is converted to Analysis_Data/weather_csv.csv.
+2. Wide table is changed into high table.
+3. Statistics and plots of data are shown.
+
+All is written in script: Command_Files/main.ipynb. Headers of tidy file are: year-month, var (TMAX = max temperature, TMIN = min temperature, PRCP = ?), D1 (1st day), D2 (2nd day), ..., D30 (30th day), D31 (31st day).
