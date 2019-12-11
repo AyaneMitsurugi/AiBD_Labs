@@ -1,0 +1,11 @@
+Original data was downloaded from side:
+https://github.com/jerzybaranowski/public_lectures/blob/master/Analiza%20i%20Bazy%20Danych/Lab%201%20-%20tidy%20data/Datasets/weather.txt. 
+Its raw version was copy pased to notepad. Original (raw) data is in Original_Data/weather file. First line shows as follows: "MX000017004195504TMAX  310  I  310  I  310  I  320  I  330  I  320  I  320  I  330  I  330  I  330  I  330  I  320  I  310  I  310  I  320  I  320  I  320  I  310  I  310  I  320  I  320  I  330  I  330  I  330  I  330  I  330  I  330  I  340  I  330  I  320  I-9999".
+
+Data afther after analysis is in:
+Analysis_Data/weather_csv_tidy.csv file.
+Headers of weather_csv_tidy.csv file are:
+    * DAY (year-month-day),
+    * PRCP (variable, number),
+    * TMAX (max temperature, variable, number),
+    * TMIN (min temperature, variable, number).
