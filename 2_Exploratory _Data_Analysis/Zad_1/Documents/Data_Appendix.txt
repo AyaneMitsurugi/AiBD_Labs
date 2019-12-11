@@ -1,0 +1,13 @@
+//***** ANALYSIS DATA *****//
+
+1. Original_Data/weather.txt is copy pased to Analysis_Data folder.
+2. Mess in Analysis_Data/weather.txt is cleared (and this unmessy file) is saves as *.csv file (Analysis_Data/weather_csv.csv).
+3. Wide table is changed into high table (Analysis_Data/weather_csv_tidy.csv).
+4. Statistics and plots of data are shown.
+
+All is done by script: Command_Files/main.ipynb.
+Headers of weather_csv_tidy file are:
+    * DAY (year-month-day),
+    * PRCP (variable, number),
+    * TMAX (max temperature, variable, number),
+    * TMIN (min temperature, variable, number).
